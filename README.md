@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on anything honestly 
 - 📫 How to reach me discord @javascript101
-- 😄 Pronouns: he/him
+- 😄 Pronouns: She/Her mtf
 - ⚡ Fun fact: I'm into retro stuff 
 
 <!---
